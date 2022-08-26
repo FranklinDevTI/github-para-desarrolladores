@@ -1,1 +1,1 @@
-# github-para-desarrolladores
+GitHub para desarrolladores - Curso tomado desde Linkedin
